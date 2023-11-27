@@ -1,5 +1,6 @@
 package com.youtube.jwt.entity;
 
+
 public class JwtRequest {
 
     private String userName;
